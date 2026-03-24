@@ -57,6 +57,21 @@ The analysis is performed using **SQL and Power BI**, and the final output is an
 
 ---
 
+## 📊 Business Insights
+- Maharashtra generates highest revenue contribution
+- COD is the most preferred payment method (~44%)
+- Profit drops observed in May and December indicate seasonal challenges
+- Top 5 customers contribute major share of revenue
+
+---
+
+## 📈 Recommendations
+- Focus marketing campaigns in high-performing states
+- Reduce dependency on COD to minimize risk
+- Investigate reasons behind loss months (May, December)
+
+--- 
+
 ## 📸 Dashboard Preview
 
 <img width="1541" height="861" alt="Screenshot 2026-03-24 174446" src="https://github.com/user-attachments/assets/248c6861-1a42-4ef6-9c77-02029c88d88c" />
