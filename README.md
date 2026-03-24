@@ -59,8 +59,13 @@ The analysis is performed using **SQL and Power BI**, and the final output is an
 
 ## 📸 Dashboard Preview
 
-<img width="1358" height="751" alt="Screenshot 2026-03-24 175050" src="https://github.com/user-attachments/assets/3c8c663b-d7b8-411d-aa6c-2fd22d4a19a2" />
+<img width="1541" height="861" alt="Screenshot 2026-03-24 174446" src="https://github.com/user-attachments/assets/248c6861-1a42-4ef6-9c77-02029c88d88c" />
 
+
+<img width="1532" height="857" alt="Screenshot 2026-03-24 174503" src="https://github.com/user-attachments/assets/8814ffaf-7c94-40b1-aebf-a3c951f1c6c9" />
+
+
+<img width="1358" height="751" alt="Screenshot 2026-03-24 175050" src="https://github.com/user-attachments/assets/53dd778d-084b-4c69-9d06-9ea2e10c00db" />
 
 ---
 
